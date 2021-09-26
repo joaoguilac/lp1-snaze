@@ -41,5 +41,7 @@ $ ./build/snaze [<options>] <input_level_file> (executar) [Exemplo de execução
         --playertype <type>     Type of snake intelligence: random, backtracking. Default = backtracking.
 ```
 
+Os arquivos com apostas devem ser salvos na pasta `assets` (se isso for feito, para executar basta `./build/snaze ./assets/<arquivo com sua aposta>`. Já existem alguns exemplos de arquivos de aposta nesta pasta. É possível utilizá-los, mas você pode criar o seu próprio também.
+
 --------
 &copy; DIMAp/UFRN 2021.
